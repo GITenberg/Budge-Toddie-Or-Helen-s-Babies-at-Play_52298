@@ -1,11 +1,14 @@
 _repo: Budge-Toddie-Or-Helen-s-Babies-at-Play_52298
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Budge and Toddie; Or, Helen's Babies at Play
 contributor:
   illustrator:
     agent_name: Dwiggins, Tod
     gutenberg_agent_id: '46234'
     url: http://www.gutenberg.org/2009/agents/46234
+covers:
+- cover_type: archival
+  image_path: 52298-h/images/cover.jpg
 creator:
   author:
     agent_name: Habberton, John
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1427
     wikipedia: http://en.wikipedia.org/wiki/John_Habberton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52298#Budge-Toddie-Or-Helen-s-Babies-at-Play
 gutenberg_issued: '2016-06-10'
 gutenberg_type: Text
 identifiers:
